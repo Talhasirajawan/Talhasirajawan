@@ -1,4 +1,4 @@
-<h2 align="center">I'm a Data Scientist and Project Manager!!</h2>
+<h2 align="center">I'm a Data Analyst!!</h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 
