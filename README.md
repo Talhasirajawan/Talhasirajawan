@@ -8,8 +8,6 @@
 
 - 👨‍💻 **Most of my projects are available at GitHub.**
 
-- 🔭 **I’m currently learning Unity and Azure DevOps.**
-
 - ⚡ **I love designing custom computer systems.**
 
 
